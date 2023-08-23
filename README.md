@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Amarnath and I'm a  cse student and love to code mern stack applications!!</h2>
+<h2 align="left">Hi 👋! My name is Amarnath , I'm a  cse student and love to code mern stack applications!!</h2>
 
 ###
 
